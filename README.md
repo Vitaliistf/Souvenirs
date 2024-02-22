@@ -61,7 +61,7 @@ The project has a Three-Tier Architecture:
 
 | Layer                                  | Responsibilities                                                | 
 |----------------------------------------|-----------------------------------------------------------------|
-| **Presentation layer (Controllers)**   | Accepts requests from clients and send response.                |
+| **Presentation layer (Controllers)**   | Accepts requests from user and send response.                   |
 | **Application logic layer (Services)** | Provide validation and logic to operate on the data.            |
 | **Data access layer (Repositories)**   | Represents a connection between "database" and the application. |
 

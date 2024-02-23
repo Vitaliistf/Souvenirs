@@ -97,7 +97,7 @@ in repositories from object existing on the client side.
 2. Change configuration in application.properties if needed.
 3. Build and run the application.
 
-> Note that there is already pre-saved objects in files of resources folder.
+> Note that there is already sample data in files of resources folder. If you do not want to use it, just delete them.
 
 ## Usage
 
